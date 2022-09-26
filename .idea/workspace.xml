@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38b28dc8-4335-4c46-ab39-755691e61b8b" name="Changes" comment="1" />
+    <list default="true" id="38b28dc8-4335-4c46-ab39-755691e61b8b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
   }
 }]]></component>
   <component name="RunManager" selected="HTTP Request.test | #1">
@@ -83,8 +83,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664195582831</updated>
-      <workItem from="1664195584368" duration="2909000" />
+      <workItem from="1664195584368" duration="3218000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1664198785521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664198785521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +108,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
