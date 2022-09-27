@@ -4,26 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38b28dc8-4335-4c46-ab39-755691e61b8b" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/Calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/ClientRequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/HttpRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/HttpResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/QueryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/QueryStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/RequestLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/test/java/FastCampusLecture/WAS/practice/QueryStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/test/java/FastCampusLecture/WAS/practice/QueryStringsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/src/test/java/FastCampusLecture/WAS/practice/RequestListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+    <list default="true" id="38b28dc8-4335-4c46-ab39-755691e61b8b" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bin/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/out/production/classes/FastCampusLecture/WAS/practice/CustomWebApplicationServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/lib/out/production/classes/FastCampusLecture/WAS/practice/CustomWebApplicationServer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/CustomWebApplicationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/CustomWebApplicationServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/test.http" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +194,7 @@
       <workItem from="1664195584368" duration="5231000" />
       <workItem from="1664200842701" duration="497000" />
       <workItem from="1664275298812" duration="2939000" />
-      <workItem from="1664278254181" duration="7609000" />
+      <workItem from="1664278254181" duration="8700000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664198785521</created>
@@ -259,7 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664200094900</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test">
+      <created>1664287111513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664287111513</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <created>1664287201055</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664287201055</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +278,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
