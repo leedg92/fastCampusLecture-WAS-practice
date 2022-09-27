@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38b28dc8-4335-4c46-ab39-755691e61b8b" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/ClientRequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/HttpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/HttpResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/QueryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/QueryStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/RequestLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/test/java/FastCampusLecture/WAS/practice/QueryStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/test/java/FastCampusLecture/WAS/practice/QueryStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/src/test/java/FastCampusLecture/WAS/practice/RequestListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/out/production/classes/FastCampusLecture/WAS/practice/CustomWebApplicationServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/lib/out/production/classes/FastCampusLecture/WAS/practice/CustomWebApplicationServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/CustomWebApplicationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/CustomWebApplicationServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/FastCampusLecture/WAS/practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/test.http" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,17 +39,21 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTTP Request" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lib" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FJ1srRTy0dG49uCCaYRC280xHd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,19 +62,52 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/leedg/eclipse-workspace/FastCampusLecture-WAS-practice",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/leedg/eclipse-workspace/FastCampusLecture-WAS-practice/lib/src/main/java/FastCampusLecture",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="HTTP Request.test | #1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FastCampusLecture.WAS.practice" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="FastCampusLecture.WAS.practice" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="FastCampusLecture.WAS.practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FastCampusLecture.WAS.practice.Main" />
       <module name="FastCampusLecture-WAS-practice.lib.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FastCampusLecture.WAS.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FastCampusLecture.WAS.practice.Main" />
+      <module name="FastCampusLecture-WAS-practice.lib" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="FastCampusLecture.WAS.practice.*" />
@@ -66,10 +121,76 @@
     <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
+    <configuration name="QueryStringTest.createTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FastCampusLecture-WAS-practice.lib.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FastCampusLecture.WAS.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FastCampusLecture.WAS.practice" />
+      <option name="MAIN_CLASS_NAME" value="FastCampusLecture.WAS.practice.QueryStringTest" />
+      <option name="METHOD_NAME" value="createTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryStringsTest.createTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FastCampusLecture-WAS-practice.lib.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FastCampusLecture.WAS.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FastCampusLecture.WAS.practice" />
+      <option name="MAIN_CLASS_NAME" value="FastCampusLecture.WAS.practice.QueryStringsTest" />
+      <option name="METHOD_NAME" value="createTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FastCampusLecture-WAS-practice.lib.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FastCampusLecture.WAS.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FastCampusLecture.WAS.practice" />
+      <option name="MAIN_CLASS_NAME" value="FastCampusLecture.WAS.practice.RequestListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestListTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FastCampusLecture-WAS-practice.lib.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FastCampusLecture.WAS.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FastCampusLecture.WAS.practice" />
+      <option name="MAIN_CLASS_NAME" value="FastCampusLecture.WAS.practice.RequestListTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="HTTP Request.test | #1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.QueryStringsTest.createTest" />
+        <item itemvalue="JUnit.QueryStringTest.createTest" />
+        <item itemvalue="JUnit.RequestListTest.create" />
+        <item itemvalue="JUnit.RequestListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -80,12 +201,14 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="38b28dc8-4335-4c46-ab39-755691e61b8b" name="Changes" comment="" />
-      <changelist id="" name="New changelist" comment="" />
       <created>1664195582831</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664195582831</updated>
-      <workItem from="1664195584368" duration="4501000" />
+      <workItem from="1664195584368" duration="5231000" />
+      <workItem from="1664200842701" duration="497000" />
+      <workItem from="1664275298812" duration="2939000" />
+      <workItem from="1664278254181" duration="7609000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664198785521</created>
@@ -129,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664199949044</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1">
+      <created>1664200094900</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664200094900</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
